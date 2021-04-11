@@ -3,7 +3,7 @@
 ## 완성본
 ![apple_render](https://user-images.githubusercontent.com/42382793/114308938-6c1c8800-9b20-11eb-81d3-8df8be5fb920.png)
 
-## [강의영상](https://youtu.be/H2kT2uyTyzM)
+## 강의영상
 
 본 파일은 [`A-Z Technology` 님의 유튜브](https://www.youtube.com/channel/UCpp1xltFiMwO1BHTHwuS7UA) 강의 영상을 보면서 제작(?)하게 되었습니다
 
