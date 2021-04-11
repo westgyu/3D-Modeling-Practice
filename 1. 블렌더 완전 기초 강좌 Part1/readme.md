@@ -6,3 +6,6 @@
 ## [강의영상](https://youtu.be/7FPaJpwzdjU)
 
 본 파일은 [`A-Z Technology` 님의 유튜브](https://www.youtube.com/channel/UCpp1xltFiMwO1BHTHwuS7UA) 강의 영상을 보면서 제작(?)하게 되었습니다
+
+## 프로그램
+Blender 2.92.0
